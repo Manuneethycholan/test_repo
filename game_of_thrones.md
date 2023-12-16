@@ -13,7 +13,16 @@ f
 as
 fsted file to test rebase command 
 a
-
+sadfasf
+as
+f
+as
+f
+a
+f
+a
+f
+asf
 
 
 sf
