@@ -40,7 +40,6 @@ faas
 asd
 fa
 sdf
-as
 faasfa
 s
 safa
